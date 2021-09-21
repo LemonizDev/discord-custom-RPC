@@ -1,0 +1,23 @@
+{
+  "name": "discord-custom-rpc",
+  "version": "2.1.0",
+  "description": "A custom Rich Presence status for discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LemonizDev/discord-custom-RPC.git"
+  },
+  "author": "LemonizDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LemonizDev/discord-custom-RPC/issues"
+  },
+  "homepage": "https://github.com/LemonizDev/discord-custom-RPC#readme",
+  "dependencies": {
+    "discord-rpc": "^4.0.1",
+    "discord.js": "^12.5.3"
+  }
+}
