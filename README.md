@@ -11,4 +11,4 @@ First things first, you must go to the [discord developer portal](discord.com/de
 
 After this you must click on RPC and then art assets, here you can pick an image for your RPC, once you upload the image you will be able to see the name of the image below the art assets, copy and save that name as you're gonna be needing it later. Further instructions will be found in the index.js file.
 
-## Thank you
+<h1 align='center'>  Thank you</h1>
